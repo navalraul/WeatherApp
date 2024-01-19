@@ -1,10 +1,12 @@
 // import logo from './logo.svg';
 import './App.css';
+import TopButtons from './components/TopButtons';
+// import UilReact from '@iconscout/react-unicons/icons/uil-react'
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello world</h1>
+    <div className='max'>
+      <TopButtons />
     </div>
   );
 }
