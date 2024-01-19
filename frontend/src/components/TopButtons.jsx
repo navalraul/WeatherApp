@@ -8,4 +8,4 @@ const TopButtons = () => {
   )
 }
 
-export default TopButtons
+export default TopButtons;

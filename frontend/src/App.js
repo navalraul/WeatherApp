@@ -5,7 +5,7 @@ import TopButtons from './components/TopButtons';
 
 function App() {
   return (
-    <div className='max'>
+    <div className='max-auto max-w-screen-md'>
       <TopButtons />
     </div>
   );
