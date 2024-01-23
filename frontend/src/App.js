@@ -12,7 +12,7 @@ import getFormattedWeatherData from './services/weatherService';
 // import UilReact from '@iconscout/react-unicons/icons/uil-react'
 
 function App() {
-  const [query, setQuery] = useState({ q: "berlin" });
+  const [query, setQuery] = useState({ q: "mumbai" });
   const [units, setUnits] = useState("metric");
   const [weather, setWeather] = useState(null);
 
