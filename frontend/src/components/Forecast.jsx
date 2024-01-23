@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Forecast = ({title}) => {
+function Forecast ({title}) {
   return (
     <div>
         <div className='flex items-center justify-start ml-16 my-6'>

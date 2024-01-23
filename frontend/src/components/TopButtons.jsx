@@ -1,6 +1,6 @@
 import React from 'react'
 
-const TopButtons = () => {
+function TopButtons () {
 
   const cities = [
     {
